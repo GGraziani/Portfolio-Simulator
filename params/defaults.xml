@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<params>
+    <timeframes>
+        <timeframe>1w</timeframe>
+        <timeframe>2w</timeframe>
+        <timeframe>m</timeframe>
+    </timeframes>
+    <timeframe>m</timeframe>
+    <day>1</day>
+    <portfolio>1</portfolio>
+    <cutoff>1</cutoff>
+    <selector>indicator</selector>
+</params>
